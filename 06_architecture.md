@@ -22,7 +22,7 @@ The raw material the novel is built from. **Never pushed to GitHub.** Grows as n
 The novel itself and the planning around it — **fictional names throughout, zero verbatim quotes from the corpus**.
 
 - `01_structure.md` through `06_architecture.md` — planning docs. Use fictional names only (*Lera* is a codename until locked; real names forbidden).
-- `prose/` *(to be created when drafting starts in earnest)* — fictional prose drafts. `prose/ch01_may_dip/beat01.md` etc.
+- `prose/` — fictional prose drafts. One file per chapter (e.g. `prose/ch01_may_dip.md`), grows as beats are drafted.
 - `characters/` *(to be created)* — fictional character sheets, drawn from the dossiers but sanitized of real names and verbatim quotes. One file per character in the book.
 - `telegram_index/*.py` — processing scripts. Code is fine on GitHub; only content is not.
 
