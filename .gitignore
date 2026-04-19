@@ -1,0 +1,62 @@
+# ============================================================
+# PRIVATE WORKING SUBSTRATE — local only, NEVER push
+# ============================================================
+# The corpus (raw per-character Telegram exports, transcripts,
+# derivatives with verbatim content or real names) stays on
+# disk. GitHub is the shareable layer: fictional prose, planning
+# docs, processing scripts — never source material.
+#
+# Rule: if a file contains a verbatim quote or a real name, it
+# must match one of the patterns below. New files default to
+# being tracked — err on the side of adding to this list.
+
+# ---------- Per-character corpus tree (add new chars here) ----
+telegram_index/corpus/
+telegram_index/dossiers/
+
+# ---------- Legacy raw-data files in telegram_index/ root -----
+telegram_index/unified_timeline.csv
+telegram_index/messages.csv
+telegram_index/voice_notes.csv
+telegram_index/timeline_daily.csv
+telegram_index/breakup_window.md
+telegram_index/full_ledger.md
+telegram_index/full_ledger_data.json
+telegram_index/per_file.json
+telegram_index/transcripts/
+telegram_index/by_month/
+telegram_index/*.log
+
+# ---------- Legacy aggregate files that leak quotes + names ---
+# Removed from disk 2026-04-20 and listed here so they can never
+# be re-added accidentally. If regenerated, they regenerate
+# locally only.
+telegram_index/relationship_map.md
+telegram_index/map_data.json
+telegram_index/unified_stats.json
+
+# ---------- Belt-and-suspenders blanket patterns --------------
+# Any new file matching these names defaults to ignored,
+# wherever in the tree it lives.
+*_corpus.*
+*_corpus/
+*_raw.*
+*_raw/
+*_private.*
+*_private/
+*_dossier.md
+*_transcript.*
+raw/
+private/
+corpus/
+dossiers/
+
+# ---------- Claude session state ------------------------------
+.claude/
+
+# ---------- macOS ---------------------------------------------
+.DS_Store
+
+# ---------- Python --------------------------------------------
+__pycache__/
+*.pyc
