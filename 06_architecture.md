@@ -15,6 +15,7 @@ The raw material the novel is built from. **Never pushed to GitHub.** Grows as n
 - `telegram_index/corpus/<character>/` — one directory per character. Holds the raw Telegram export (JSON), flattened CSV, voice note transcripts, and any per-character derivatives that contain verbatim content. Example: `telegram_index/corpus/kostya/export.json`.
 - `telegram_index/dossiers/<character>.md` — derived character analysis: voice signature, tics, relationship arc, gold-mine exchanges with timestamps. Contains real names and verbatim quotes. Stays local.
 - Legacy raw files in `telegram_index/` root: `messages.csv`, `unified_timeline.csv`, `voice_notes.csv`, `timeline_daily.csv`, `breakup_window.md`, `full_ledger.md`, `full_ledger_data.json`, `per_file.json`, `transcripts/`, `by_month/`, `*.log`. All gitignored, all local.
+- `notebook/` — working notebook. Session logs, planning scratch, craft conversations distilled from sessions. Contains real names, quotes, and in-progress thinking. Local only.
 
 ### Layer 2 — Shareable fictional layer *(tracked and pushed to GitHub)*
 

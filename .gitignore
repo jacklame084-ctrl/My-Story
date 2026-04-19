@@ -14,6 +14,9 @@
 telegram_index/corpus/
 telegram_index/dossiers/
 
+# ---------- Working notebook (session logs, planning scratch) -
+notebook/
+
 # ---------- Legacy raw-data files in telegram_index/ root -----
 telegram_index/unified_timeline.csv
 telegram_index/messages.csv
