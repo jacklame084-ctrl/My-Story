@@ -116,6 +116,7 @@
 - She is Ukrainian. He is Russian. War enters the relationship.
 - Ziggers / Twitter politics layer confirmed IN.
 - Needs a scene: the day the war starts, where each of them is, how they speak.
+- **Mikael-chat evidence (verified 2026-04-20):** on the invasion morning 11:15, narrator three rapid messages to Mikael — distress register. Mikael replies 2.5 hours later in geopolitical-explanation register, siding with the Russian structural frame. They keep talking through the war. If the war chapter includes a Mikael beat, the asymmetry of that morning is the texture to preserve — not a fight, not a break, just a quiet divergence that the friendship absorbs.
 
 ### Scholarship concealment  **[SCENE — date TBD]**
 - She obtains a scholarship. Hides it from him.
@@ -197,6 +198,13 @@
 - Originally Feb 28 – Mar 8.
 - Shifted to April due to her March 12 dissertation proposal.
 
+### Mar 26 2025 — the Mikael beat, 10 days before Istanbul  **[SCENE — short, closing palette for Act 5 opening]**
+- Narrator wishes Mikael happy birthday.
+- Mikael mentions he's seeing Lera in Moscow the next day; offers to pass a hello.
+- Narrator volunteers the Istanbul trip only because Mikael brought her up.
+- Mikael's reaction: warm, mocking, pragmatic-cynical, zero premonition.
+- **Significance:** Mikael is in active, casual touch with Lera in the week before Istanbul — she has a life continuing in Moscow while the narrator is preparing to fly to her. The narrator learns this in passing, as a birthday-greeting aside. This is the last ordinary-tonality beat before the Istanbul rupture, and the cleanest way to show Lera's life-elsewhere without ever staging Lera outside the narrator's POV. Use this as the tonal-background the Istanbul events will break against.
+
 ### Apr 5 – 12 2025 — Istanbul
 - Etiz Residences Deluxe King Suite. £488.
 - Total spend ~$6,000 USD.
@@ -230,9 +238,11 @@
 ## Characters
 
 - **Narrator** — fictionalized name.
-- **Lera** — fictionalized. The opposition character (not antagonist).
+- **Lera** — fictionalized. The opposition character (not antagonist). Full per-character dossier completed 2026-04-20 (local-only, `telegram_index/dossiers/L-Core.md`).
 - **Her parents** — fictionalized. Father central to the birthday-dinner scene.
 - **Sergeyeva** — fictionalized. Prior-trauma source. Engine. Real first name in corpus: Anna / Anya. Referenced 15+ times across the chat, from May 2022 through Jan 2025. Pattern: Lera uses her as a reference point for behaviors she won't tolerate; narrator uses her as the source of unhealed damage.
+- **Mikael** — fictionalized. Catalyst (brings Lera into Ch 1). Per-character dossier completed 2026-04-20 (local-only, `telegram_index/dossiers/M-Core.md`). See `05_theme_and_character.md` for structural role — notably, retained independent friendship with Lera across the full 5-year arc, used as 2025-03-26 beat (above). Not a minor character: needs real weight.
+- **Andrew** — fictionalized. Narrator's closest ongoing friend. Dossier completed 2026-04-20 (local-only, `telegram_index/dossiers/A-Core.md`). Foil to Mikael: Andrew = friendship that continued; Mikael = friendship that closed.
 - **Kennedy** — **FLAG.** User wants real name. Recommendation: fictionalize. Scene plays identically. Legal exposure + inconsistent with Lera rule.
 - **Kostya, Medina** — mentioned in corpus (high proper-noun frequency). Roles TBD.
 - **The co-founders he left behind** — needed for the drop-out scene. TBD.

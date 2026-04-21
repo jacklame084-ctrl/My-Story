@@ -106,9 +106,17 @@ Key questions:
 
 - **Sergeyeva (Anna / Anya in corpus)** — never appears on the page directly. Referenced, remembered, invoked. She is pressure, not character. *To sketch — what did she do, when, how long, how it ended.*
 - **Her parents** — father does the birthday-dinner humiliation. Mother left the £100 bouquet behind. *To sketch.*
+- **Mikael** — the catalyst. Brings Lera into the story at Ch 1 via the "Школьницы. Three of them" arrival. Dossier completed 2026-04-20 (verified v3, local-only). Structural facts that matter for drafting:
+  - **Retained an independent friendship with Lera across the entire 5-year corpus** (not just the Ch 1 intro). Brief shared-housing 2021-07. Continuous mentions of her through 2024. Active plan to see her in Moscow **the day before** narrator flew to Istanbul (2025-03-26). Mikael is a *second line* into Lera's life, visible to the narrator in glimpses.
+  - **Operator register.** Runs ventures (St Andrews LTD dissolved 2022-06; handbag brand launched 2022-09; marketing agency; ICO advisory; CRM consulting). Voice notes are 1–4 min uninterrupted operator monologues. Friendship has a business-scheming texture throughout.
+  - **War-morning divergence (2022-02-24).** Narrator in distress register; Mikael in geopolitical-explanation register, siding with the Russian structural frame. They keep talking — the friendship doesn't break on it — but any 2022 scene with Mikael should carry this asymmetry.
+  - **Private grief, Nov 2021.** Corpus goes silent for a month; resumes with Mikael declining to celebrate because *"я не думаю, что буду что-либо праздновать"*. A close death around mid-November 2021. Predates the main Lera arc, outside the romance plot.
+  - **Russian voice on the page.** His registers (*"Бро"*, *"Коко"*, the Russian-paren smile *))*, code-switched English business nouns) are what let fictional-Mikael sound bilingual and plausible. If this book is written in English, Mikael is how Russian stays audible.
+  - **Bookend candidate.** The 2026-03-25 late half-exchange (both men awake at 3am, neither able to hold the thread) is the natural closing palette for him — *mutual consent to not require each other*.
 - **Kennedy** — London coworker, one scene. Gets him fired. *To sketch. Name flag still pending.*
 - **The co-founders** — Ch 3 of Act 1. What they said when he left. *To sketch.*
 - **Kostya, Medina** — high proper-noun frequency in corpus. Friends, circle. Role TBD.
+- **Andrew** — narrator's closest ongoing friend by corpus volume (separate from Mikael). Dossier completed 2026-04-20 (verified v2 with 233 voice notes, local-only). Primary function in book: **foil to Mikael** — Andrew is the friendship that continued; Mikael is the friendship that closed into a warm standing wave. Against the central ended-love story, that pair gives the book two shapes of male friendship to compare.
 
 ---
 
